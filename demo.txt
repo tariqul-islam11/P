@@ -1,0 +1,2 @@
+This is the new text using the write, which means we are overwriting the texts.
+Then this is the appended text.
